@@ -1,0 +1,6 @@
+{
+  "name": "مصحح الامتحانات",
+  "description": "تطبيق مصحح الامتحانات وحساب نقاط الطلاب وتنظيم الإحصائيات مع دعم تصدير ملفات PDF والعمل بدون اتصال بالإنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Graded Paper Background Sheet -->
+    <path
+        android:fillColor="#2C2C2C"
+        android:strokeColor="#64B5F6"
+        android:strokeWidth="2.5"
+        android:pathData="M34,25 h40 a4,4 0 0 1 4,4 v50 a4,4 0 0 1 -4,4 h-40 a4,4 0 0 1 -4,-4 v-50 a4,4 0 0 1 4,-4 Z" />
+
+    <!-- Clipboard Clip -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M46,19 h16 a2,2 0 0 1 2,2 v4 a2,2 0 0 1 -2,2 h-16 a2,2 0 0 1 -2,-2 v-4 a2,2 0 0 1 2,-2 Z" />
+
+    <!-- Test Rows / Grade lines -->
+    <path
+        android:strokeColor="#B3B3B3"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,38 h32" />
+    <path
+        android:strokeColor="#B3B3B3"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,47 h24" />
+    <path
+        android:strokeColor="#B3B3B3"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,56 h12" />
+
+    <!-- Huge Vibrant Correction Checkmark / Correct Answer symbol -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M52,62 l8,8 l16,-16" />
+</vector>
